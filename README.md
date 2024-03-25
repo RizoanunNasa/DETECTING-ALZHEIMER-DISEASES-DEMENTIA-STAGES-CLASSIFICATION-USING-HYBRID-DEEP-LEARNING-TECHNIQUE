@@ -1,4 +1,4 @@
-#===============Background==========================
+#===============Background:==========================
 Alzheimer’s disease (AD) is a progressive brain condition where memory and thinking abilities decline gradually and can't be reversed. Researchers have used various methods and computer programs to look for specific patterns in brain images to tell apart the different stages of AD. However, it's tough because the brain patterns in older adults and in different stages of AD can look very similar. This similarity makes it challenging for scientists to accurately classify the different stages of the disease using these methods
 Our aim was to categorize various stages of Alzheimer's disease.In this study, we utilized the convolutional neural network structures of pre-trained Inception V3 and 3D CNN and machine learning technique of XGboost to analyze MRI data from the OASIS database.Through the implementation of a deep learning algorithm, we successfully differentiated between four distinct stages of the disease, namely Mild Demented, Moderate Demented, Non-Demented, and Very Mild Demented.
 #===============Methods:==========================
